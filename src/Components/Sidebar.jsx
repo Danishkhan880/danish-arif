@@ -5,12 +5,12 @@ import { CiLinkedin } from "react-icons/ci";
 const socialLinks = [
   {
     Icon: FaGithub,
-    href: "https://github.com/Abdullah-warraich-ch",
+    href: "https://github.com/Danishkhan880",
     hoverColor: "#e6edf3",
   },
   {
     Icon: CiLinkedin,
-    href: "https://www.linkedin.com/in/muhammad-abdullah-949b26195/",
+    href: "https://www.linkedin.com/in/danish-arif-92b2b2291/",
     hoverColor: "#0A66C2",
   },
 ];
@@ -35,7 +35,7 @@ function Sidebar() {
         {/* Name */}
         <div className="text-center">
           <h1 className="font-poppins font-bold text-3xl text-white">
-            Abdullah
+            Danish Arif
           </h1>
           <div className="h-0.5 w-10 bg-orange-500 rounded-full mx-auto mt-2" />
         </div>
@@ -43,8 +43,7 @@ function Sidebar() {
         {/* Bio */}
         <div className="lg:mt-2">
           <p className="font-medium leading-7 text-gray-500 text-center text-xl">
-            A <span className="text-white/80">Software Engineer</span> who has
-            developed countless innovative solutions.
+            A <span className="text-white/80">Wordpress Developer</span> build custom, high-performance websites and web applications.
           </p>
         </div>
 
