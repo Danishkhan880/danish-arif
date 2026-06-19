@@ -37,8 +37,6 @@ export const projects = [
     discr: "A Simple Quiz Application",
     tags: [
       { name: "Firebase", icon: <SiFirebase color="#FFCA28" /> },
-      { name: "React", icon: <FaReact color="#61DAFB" /> },
-      { name: "Tailwind", icon: <RiTailwindCssFill color="#06B6D4" /> },
     ],
   },
   {
