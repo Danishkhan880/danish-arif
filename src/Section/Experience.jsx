@@ -10,7 +10,7 @@ const Experience = React.forwardRef(function Experience(props, ref) {
       </div>
       <div className="mt-10 stagger-reveal">
                 <ExperienceCard
-          heading="Junior Frontend Developer"
+          heading="Wordpress Developer"
           para="Currently working as a Frontend Developer at a software house, contributing to the development of responsive user interfaces using HTML, CSS, JavaScript, React, and Next.js."
           date="April, 2026 – Present"
           active
